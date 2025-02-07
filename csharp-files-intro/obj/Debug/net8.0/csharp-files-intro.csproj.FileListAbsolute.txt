@@ -1,0 +1,17 @@
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.AssemblyInfoInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.AssemblyInfo.cs
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.csproj.CoreCompileInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\bin\Debug\net8.0\csharp-files-intro.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\bin\Debug\net8.0\csharp-files-intro.deps.json
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\bin\Debug\net8.0\csharp-files-intro.runtimeconfig.json
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\bin\Debug\net8.0\csharp-files-intro.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\bin\Debug\net8.0\csharp-files-intro.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\refint\csharp-files-intro.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.genruntimeconfig.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\ref\csharp-files-intro.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-files-intro.csproj.AssemblyReference.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-files-intro\csharp-files-intro\obj\Debug\net8.0\csharp-f.D53DD088.Up2Date
