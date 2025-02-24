@@ -121,7 +121,8 @@ namespace csharp_files_intro
             string line = reader.ReadLine();
             //BinaryReader rbin = new BinaryReader(stream);
             //string line = System.Text.Encoding.UTF8.GetString(rbin.ReadBytes(bytesPerLine));
-
+            reader.Close();
+            stream.Close();
             return line;
         }
 
